@@ -1,4 +1,4 @@
-[![pub package](https://img.shields.io/pub/v/gome_serach.svg)](https://pub.dev/packages/gome_serach)
+[![pub package](https://img.shields.io/pub/v/gome_search.svg)](https://pub.dev/packages/gome_search)
 
 # gome_search
 
