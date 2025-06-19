@@ -1,0 +1,10 @@
+name: gome_search
+description: A minimal search input widget with debounce and clear button.
+version: 0.0.1
+homepage: https://github.com/gumelartejasukma/gome_search
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
